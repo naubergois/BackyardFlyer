@@ -1,6 +1,6 @@
 # FCND - Backyard Flyer Project
 
-![](C:\Users\naube\solution\FCND-Backyard-Flyer\BackyardFlyer)
+![](BackyardFlyer)
 
 
 
